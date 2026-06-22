@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0006-zigzag-conversion) |
 ## Sliding Window
 |  |
 | ------- |
