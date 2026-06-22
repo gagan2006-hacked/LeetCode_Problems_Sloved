@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0031-next-permutation) |
 | [0118-pascals-triangle](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0118-pascals-triangle) |
 ## Two Pointers
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
