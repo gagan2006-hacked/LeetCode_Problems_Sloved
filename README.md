@@ -7,8 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0031-next-permutation) |
+| [0118-pascals-triangle](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0118-pascals-triangle) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0031-next-permutation) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
