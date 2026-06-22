@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0031-next-permutation) |
 | [0118-pascals-triangle](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0118-pascals-triangle) |
 ## Two Pointers
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0031-next-permutation) |
 ## Dynamic Programming
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0018-4sum) |
 ## Backtracking
 |  |
 | ------- |
