@@ -1,0 +1,14 @@
+class Solution {
+    public int[] twoSum(int[] arr, int target)  {
+        HashMap<Integer,Integer>set=new HashMap<>();
+//        Thread.sleep(100);
+        for (int i = 0; i <arr.length; i++) {
+            int number=target-arr[i];
+            if (set.containsKey(number)){
+                return new int[]{set.get(number),i};
+            }
+            set.put(arr[i],i);
+        }
+        return new int[]{-1,-1};
+    }
+}
