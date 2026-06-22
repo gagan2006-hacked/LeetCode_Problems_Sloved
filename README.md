@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0031-next-permutation) |
 | [0118-pascals-triangle](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0118-pascals-triangle) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0031-next-permutation) |
 ## Dynamic Programming
 |  |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0004-median-of-two-sorted-arrays) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
