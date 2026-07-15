@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0118-pascals-triangle) |
 ## Two Pointers
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/gagan2006-hacked/LeetCode_Problems_Sloved/tree/master/0088-merge-sorted-array) |
 ## Backtracking
 |  |
 | ------- |
