@@ -1,16 +1,15 @@
 class Solution {
-     public  int removeDuplicates(int[] arr) {
-        int k=1;
-        int p=arr[0];
+    public static int removeDuplicates(int[] arr) {
+        int prev=arr[0];
+        int curr=1;
         for (int i = 1; i <arr.length; i++) {
-            if (p==arr[i]){
-                continue;
-            }else {
-                arr[k++]=arr[i];
+            if (prev!=arr[i]){
+                int t=curr;
+                arr[curr++]=arr[i];
+                prev=arr[t];
             }
-            p=arr[i];
         }
-        System.out.println(Arrays.toString(arr));
-        return k;
+        // System.out.println(Arrays.toString(Arrays.copyOf(arr,curr)));
+        return curr;
     }
 }
